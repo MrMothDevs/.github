@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, we're MrMothDevs</h1>
-<h3 align="center">A group of people from Europe</h3>
+<h3 align="center">Free content for everyone to get into the world of programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmothdevs&label=Profile%20views&color=0e75b6&style=flat" alt="mrmothdevs" /> </p>
 
@@ -20,9 +20,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mrmothdevs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrmothdevs" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmothdevs&show_icons=true&locale=en&layout=compact" alt="mrmothdevs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrmothdevs&show_icons=true&locale=en" alt="mrmothdevs" /></p>
 
 
 
