@@ -9,7 +9,7 @@
 
 - 📫 How to reach us **mrmothdevs@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us</h3>
 <p align="left">
 <a href="https://instagram.com/mrmothdevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrmothdevs" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mrmothdevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrmothdevs" height="30" width="40" /></a>
