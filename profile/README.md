@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, we're MrMothDevs</h1>
 <h3 align="center">Free content for everyone to get into the world of programming</h3>
 
-<img src="about.png" alt="MrMothDevs Banner">
+<img src="/profile/about.png" alt="MrMothDevs Banner">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmothdevs&label=Profile%20views&color=0e75b6&style=flat" alt="mrmothdevs" /> </p>
 
